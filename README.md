@@ -21,5 +21,7 @@ This repository contains the completed source code for Tutorial #1 on my YouTube
 3. Ensure you have the **.NET desktop development** workload installed.
 4. Press **Start** (or `F5`) in Visual Studio to run the application.
 
-<img width="1365" height="767" alt="Screenshot 2026-08-29 142008" src="https://github.com/user-attachments/assets/9b763f52-8662-405d-9c61-6228b3f2a025" />
-<img width="1347" height="762" alt="Screenshot 2026-08-29 141912" src="https://github.com/user-attachments/assets/ad63a8a4-a27d-4a51-a28d-3ffab3009b21" />
+## Screenshots
+<img width="800" height="482" alt="Screenshot 2026-09-26 145404" src="https://github.com/user-attachments/assets/ba7285f0-7602-4f13-af1d-fe1aa4db5656" />
+<img width="799" height="483" alt="Screenshot 2026-09-26 145336" src="https://github.com/user-attachments/assets/94f2b6b4-9b59-4411-a274-28f9472b0380" />
+
