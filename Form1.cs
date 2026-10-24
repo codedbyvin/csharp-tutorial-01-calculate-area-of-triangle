@@ -19,15 +19,12 @@ namespace youtube_prac1
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            // Declaring our variables and storing the user input.
             decimal Base = nudBase.Value;
             decimal Height = nudHeight.Value;
             decimal Area = 0;
-
-            // Using the (1/2 Base times Height) formula to calculate the area of the triangle.
+            
             Area = 0.5m * Base * Height;
-
-            // Displaying the results back.
+            
             nudArea.Value = Area;
         }
     }
